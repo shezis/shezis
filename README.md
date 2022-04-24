@@ -7,7 +7,7 @@
 A data engineer passionate about Cloud Data Infrastructure. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for Product based Development (Open Source or Otherwise), 🚀 CI/CD, and P2P development.
 
 
-- ⚡ **Zinger:** I believe certification is invalid if not backed by actual work experience.
+- ⚡ **Zinger:** I believe certifications are a waste of time if not backed by actual experience.
 - 💬 Talk to me about Football :soccer:, Memes, anything that revolves around Tech.
 - 🌱 I’m currently pursuing **Machine learning**.
 
